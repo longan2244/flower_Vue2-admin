@@ -1,19 +1,19 @@
 # appadmin
 
-## Project setup
+## 项目设置
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### 编译和热重载开发
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
+### 编译和简化生产
 ```
 npm run build
 ```
-
-### Customize configuration
+### 自定义配置
 See [Configuration Reference](https://cli.vuejs.org/config/).
+### 使用说明
